@@ -3,3 +3,4 @@ target/
 WildflyLdapPlugin/
 *.log
 *.iml
+.checkstyle

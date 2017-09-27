@@ -4,3 +4,6 @@ WildflyLdapPlugin/
 *.log
 *.iml
 .checkstyle
+.project
+.settings
+WebContent/

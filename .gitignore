@@ -1,9 +1,2 @@
-target/
-.classpath
-WildflyLdapPlugin/
-*.log
-*.iml
-.checkstyle
-.project
-.settings
-WebContent/
+30_Implementation/Matflow/*/target/
+30_Implementation/Matflow/logs/
